@@ -3,6 +3,7 @@ package edu.mtc.egr283.RecipeBox;
 import java.util.Scanner;
 
 /**
+ * The Driver Class is what runs the program
  * @author Christian Batista
  *
  */
